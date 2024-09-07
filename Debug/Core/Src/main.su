@@ -1,0 +1,8 @@
+../Core/Src/main.c:61:6:actualizar_leds_jugador1	16	static
+../Core/Src/main.c:74:6:actualizar_leds_jugador2	16	static
+../Core/Src/main.c:87:6:verificar_ganador	8	static
+../Core/Src/main.c:99:6:secuencia_semaforo	8	static
+../Core/Src/main.c:122:5:main	8	static
+../Core/Src/main.c:195:6:SystemClock_Config	88	static
+../Core/Src/main.c:240:6:Error_Handler	4	static,ignoring_inline_asm
+../Core/Src/main.c:255:6:MX_GPIO_Init	40	static
